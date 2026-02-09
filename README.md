@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @amaraja9226
-  My project name is The indian Tour and Travel.I really like indian tour place.so i will create The indian tour and travel nini project.
+Hi, I'm Amaraja
+🎓 Computer Science Student from Maharashtra, India
+💻 Passionate about Full Stack Web Development
+🚀 i am  improving problem-solving skills
+📌 Preparing for placements
+🚀 Passionate about building AI-powered web applications
 
-<!---
-amaraja9226/amaraja9226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Technical Skills
+Python
+Django
+HTML, CSS, JavaScript
+Git & GitHub
+Basic SQL
+Exploring: Machine Learning (NumPy, Pandas, Scikit-learn)
+🚀 Projects
+1.Digital Bus Pass Management System
+2.clinical Lab Management system
+3.Virtual Try-On Web Application
+
+📫 Connect With Me
+Email: amarajagame@gmail.com
+LinkedIn: https://www.linkedin.com/in/amaraja-game-0b32a7349/
