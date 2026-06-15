@@ -19,4 +19,4 @@ Exploring: Machine Learning (NumPy, Pandas, Scikit-learn)
 
 📫 Connect With Me
 Email: amarajagame@gmail.com
-LinkedIn: https://www.linkedin.com/in/amaraja-game-0b32a7349/
+LinkedIn: https://www.linkedin.com/in/amarajagame
